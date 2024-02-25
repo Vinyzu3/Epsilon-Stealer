@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><a href="https://discord.gg/toolfr" target="_blank">✨ Join Discord for support and contact (Click me! ) ✨ </a>
+<p align="center"><a href="[https://discord.gg/toolf](https://discord.gg/nsJy5juZ)r" target="_blank">✨ Join Discord for support and contact (Click me! ) ✨ </a>
 
 
 
