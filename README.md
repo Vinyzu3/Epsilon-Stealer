@@ -3,7 +3,7 @@
 
 
 
-
+<p align="center"><a href="https://discord.gg/toolfr" target="_blank">✨ Join Discord for support and contact (Click me! ) ✨ </a>
 
 
 
@@ -71,8 +71,6 @@
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/DHskZdG.png"></img>
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img>
-<img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="639">
-
     
 
 
@@ -86,6 +84,12 @@
 
 - Cet outil est uniquement destiné à des fins éducatives. Il est codé pour vous permettre de voir comment vos fichiers sont simplement volés et comment agir. Ne pas utiliser à des fins illégales. Nous ne sommes jamais responsables d'une utilisation illégale. <bold>Educational purpose only!</bold>
 
-  
+                                                      🪪 Created By
 
+#
+|*Information:* | *Response:* |
+|--------------|------------ |
+| *Made By :*   |        IW deleted     |
+| *User :*      |iwdeleted |
+| *Server :*   | https://discord.gg/toolfr |
 
